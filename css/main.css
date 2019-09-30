@@ -10,12 +10,21 @@ header{
   background-color: #1abc9c;
 }
 
+
 /* main rules */
 main{
   height: 1350px;
-  background-color: red;
 }
 
+.portfolio{
+  height: 750px;
+  background-color: white;
+}
+
+.about{
+  height: 600px;
+  background-color: #1abc9c; 
+}
 /* footer rules */
 footer{
   height: 950px;
