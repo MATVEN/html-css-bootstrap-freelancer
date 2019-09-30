@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* header rules*/
+header{
+  height: 700px;
+  background-color: #1abc9c;
+}
+
+/* main rules */
+main{
+  height: 1350px;
+  background-color: red;
+}
+
+/* footer rules */
+footer{
+  height: 950px;
+  background-color: grey;
+}
