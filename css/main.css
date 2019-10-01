@@ -105,10 +105,13 @@ main{
 
 .txtsx, .txtdx{
   width: 375px;
-  height: 190px;
+  height: 150px;
   float: left;
 }
 
+.btn{
+  margin-left: 45%;
+}
 .contact{
   height: 950px;
   background-color: white;
