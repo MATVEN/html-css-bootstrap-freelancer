@@ -116,6 +116,18 @@ main{
   height: 950px;
   background-color: white;
 }
+
+.contact h2{
+  font-size: 48px;
+  color: #2c3e50;
+  text-align: center;
+  padding-top: 5%;
+}
+
+.form-group label{
+  color: #2c3e50;
+}
+
 /* footer rules */
 footer{
   height: 400px;
